@@ -21,7 +21,7 @@
                         <a class="nav-link" href="{{ url('/') }}">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url('/contato') }}">Contato</a>
+                        <a class="nav-link" href="{{ url('/formulario') }}">Contato</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url('/sobre') }}">Scobre</a>
